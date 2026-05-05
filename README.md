@@ -2,6 +2,8 @@
 
 A two-player Tic Tac Toe game that runs in the terminal, featuring colored output, cursor positioning, real-time clock display, and input validation.
 
+---
+
 ## 🕹️ Full Gameplay Preview
 
 https://github.com/user-attachments/assets/9876116d-0b23-4151-9eb4-256eac9dc67c
