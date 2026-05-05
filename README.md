@@ -78,7 +78,6 @@ A two-player Tic Tac Toe game that runs in the terminal, featuring colored outpu
 | Screen clear | `system("cls")`                   | `system("clear")`            |
 | Cursor move  | `SetConsoleCursorPosition`        | ANSI escape `\033[y;xH`      |
 | Sleep        | `Sleep(ms)` via `<windows.h>`     | `sleep(s)` via `<unistd.h>`  |
-|
 
 ## 📄 License
 
